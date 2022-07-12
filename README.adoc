@@ -1,4 +1,6 @@
 = go-utils
 David Gamba, https://github.com/DavidGamba
 
+IMPORTANT: Code moved to my tools monorepo: https://github.com/DavidGamba/dgtools
+
 Generic utilities for Golang that don't deserve a repo of their own.
